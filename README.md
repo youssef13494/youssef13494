@@ -36,7 +36,7 @@ Welcome to my GitHub profile! 🚀 Here’s a little about me:
 ---
 
 ## 🌐 How to Reach Me  
-- LinkedIn: [Youssef Hatem]([https://www.linkedin.com](https://www.linkedin.com/in/youssef-hatem-244b6b207/?locale=en_US))  
+- LinkedIn: [Youssef Hatem]([https://www.linkedin.com](https://www.linkedin.com/in/youssef-hatem-244b6b207/?locale=en_US)  
 - Email: youssefhatem206@gmail.com  
 
 
