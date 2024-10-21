@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Youssef Hatem  
 
-👨‍💻 **Data Scientist | AI Enthusiast | Machine Learning Engineer**  
+👨‍💻 **Data Scientist | Data Analyst | Machine Learning Engineer**  
 
 Welcome to my GitHub profile! 🚀 Here’s a little about me:
 
@@ -33,6 +33,10 @@ Welcome to my GitHub profile! 🚀 Here’s a little about me:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
 </p>
 
 ---
@@ -41,4 +45,4 @@ Welcome to my GitHub profile! 🚀 Here’s a little about me:
 - LinkedIn: [Youssef Hatem](https://www.linkedin.com/in/youssef-hatem-244b6b207/?locale=en_US)  
 - Email: youssefhatem206@gmail.com  
 - WhatsApp: [01128252206](https://wa.me/201128252206)  
-- Portfolio: [TIMSAH](https://yousseftimsah.github.io/Portfolio/) 
+- Portfolio: [TIMSAH](https://yousseftimsah.github.io/Portfolio/)  
