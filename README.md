@@ -51,13 +51,10 @@ Welcome to my GitHub profile! 🚀 Here’s a little about me:
   <a href="https://www.linkedin.com/in/youssef-hatem-244b6b207/?locale=en_US">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="mailto:youssefhatem206@gmail.com">
-    <img src="(https://i.pinimg.com/736x/23/da/b9/23dab92cbddac8b9ae00db6dd345644d.jpg)" alt="Gmail" width="30" height="30"/>
-  </a>
   <a href="https://wa.me/201128252206">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="30" height="30"/>
   </a>
-  <a href="https://yousseftimsah.github.io/Portfolio/">
-    <img src="[(https://yousseftimsah.github.io/Portfolio/images/Char1.png)](https://yousseftimsah.github.io/Portfolio/#)" alt="Timsah" width="30" height="30"/>
-  </a>
+  
 </p>
+- Email: youssefhatem206@gmail.com  
+- Portfolio: [TIMSAH](https://yousseftimsah.github.io/Portfolio/)  
