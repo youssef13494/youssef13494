@@ -58,6 +58,6 @@ Welcome to my GitHub profile! 🚀 Here’s a little about me:
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="30" height="30"/>
   </a>
   <a href="https://yousseftimsah.github.io/Portfolio/">
-    <img src="(https://yousseftimsah.github.io/Portfolio/images/Char1.png)" alt="Timsah" width="30" height="30"/>
+    <img src="[(https://yousseftimsah.github.io/Portfolio/images/Char1.png)](https://yousseftimsah.github.io/Portfolio/#)" alt="Timsah" width="30" height="30"/>
   </a>
 </p>
