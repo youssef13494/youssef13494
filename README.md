@@ -45,10 +45,18 @@ Welcome to my GitHub profile! 🚀 Here’s a little about me:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="40" alt="azure logo"  />
 </p>
 
----
-
-## 🌐 How to Reach Me  
-- LinkedIn: [Youssef Hatem](https://www.linkedin.com/in/youssef-hatem-244b6b207/?locale=en_US)  
-- Email: youssefhatem206@gmail.com  
-- WhatsApp: [01128252206](https://wa.me/201128252206)  
-- Portfolio: [TIMSAH](https://yousseftimsah.github.io/Portfolio/)  
+---## 🌐 How to Reach Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/youssef-hatem-244b6b207/?locale=en_US">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="mailto:youssefhatem206@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Gmail" width="30" height="30"/>
+  </a>
+  <a href="https://wa.me/201128252206">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="30" height="30"/>
+  </a>
+  <a href="https://yousseftimsah.github.io/Portfolio/">
+    Portfolio
+  </a>
+</p>
