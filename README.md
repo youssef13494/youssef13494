@@ -50,7 +50,7 @@ Welcome to my GitHub profile! 🚀 Here’s a little about me:
 ---
 ## 🌐 How to Reach Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/youssef-hatem-244b6b207/?locale=en_US">
+  <a href="https://www.linkedin.com/in/youssef-hatem-244b6b207/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://wa.me/201128252206">
