@@ -1,6 +1,8 @@
-# 👋 Hello! I'm Youssef Hatem  
+# 👋 Hello! I'm Youssef Hatem Timsah  
 
 👨‍💻 **Data Scientist | Data Analyst | Machine Learning Engineer**  
+
+My name is Youssef Hatem, and I am a fresh graduate of the Faculty of Computers and Artificial Intelligence at Cairo University. I work in **Data Science** and **Data Analysis**, and I have a strong interest in all areas of data, including analytics, visualization, and machine learning. I always look to improve my skills, take on new challenges, and contribute to projects that make a positive impact using data.
 
 Welcome to my GitHub profile! 🚀 Here’s a little about me:
 
